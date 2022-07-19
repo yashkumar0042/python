@@ -1,0 +1,2 @@
+this is text file
+this is second line
