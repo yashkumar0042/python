@@ -191,5 +191,3 @@
 ## _Python Padas_
 
 - _Basics of pandas_
-
-Page **7** of **7**
