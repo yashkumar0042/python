@@ -1,5 +1,5 @@
 # 5. Distributed Git
-# 1. Distributed Workflows
+# I. Distributed Workflows
 
 ## Understanding Distributed Workflows
 - Distributed version control allows for decentralized collaboration.
@@ -17,7 +17,7 @@
 - Contributors fork the repository to their accounts.
 - Pull requests are used to propose changes to the original repository.
 
-# 2. Contributing to a Project
+# II. Contributing to a Project
 
 ## Forking a Repository
 - Fork the repository on a platform like GitHub.
@@ -35,7 +35,7 @@
 - Push changes to the forked repository.
 - Create a pull request to propose changes to the original repository.
 
-# 3. Maintaining a Project
+# III. Maintaining a Project
 
 ## Reviewing Pull Requests
 - Project maintainers review and discuss proposed changes.
@@ -49,7 +49,7 @@
 - Use tags or branches to mark releases.
 - Document changes in a release notes file.
 
-# 4. Summary
+# IV. Summary
 
 ## Key Takeaways
 - Distributed workflows offer flexibility in collaboration.
@@ -62,7 +62,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 
 ---
 # 6. GutHub
-# 1. Account Setup and Configuration
+# I. Account Setup and Configuration
 
 ## Creating a GitHub Account
 - Sign up on the GitHub website.
@@ -72,7 +72,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - Set global Git configurations: `git config --global user.name "Your Name"` and `git config --global user.email "your@email.com"`.
 - Optionally, set other configurations like preferred text editor.
 
-# 2. Contributing to a Project
+# II. Contributing to a Project
 
 ## Forking a Repository
 - Fork a repository on GitHub to create a personal copy.
@@ -86,7 +86,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - Initiate a pull request on GitHub.
 - Describe the changes made and request a review.
 
-# 3. Maintaining a Project
+# III. Maintaining a Project
 
 ## Reviewing Pull Requests
 - Project maintainers review proposed changes.
@@ -100,7 +100,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - Use GitHub releases to mark project milestones.
 - Document changes in release notes.
 
-# 4. Managing an Organization
+# IV. Managing an Organization
 
 ## Creating an Organization
 - Create an organization on GitHub for collaborative projects.
@@ -110,7 +110,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - Set permissions for organization members based on roles.
 - Control access to repositories.
 
-# 5. Scripting GitHub
+# V. Scripting GitHub
 
 ## GitHub Actions
 - Automate workflows with GitHub Actions.
@@ -120,7 +120,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - Use the GitHub API for programmatic interaction.
 - Automate repetitive tasks or gather repository information.
 
-# 6. Summary
+# VI. Summary
 
 ## Key Takeaways
 - GitHub is a platform for version control and collaborative software development.
@@ -132,7 +132,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 
 ---
 # 7. Git Tools
-# 1. Revision Selection
+# I. Revision Selection
 
 ## Git Log
 - `git log`: Displays commit history.
@@ -142,13 +142,13 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - `git show <commit>`: Displays details of a specific commit.
 - Useful for reviewing changes introduced in a commit.
 
-# 2. Interactive Staging
+# II. Interactive Staging
 
 ## Git Add -p
 - `git add -p`: Interactively stage changes.
 - Allows selecting specific changes within a file.
 
-# 3. Stashing and Cleaning
+# III. Stashing and Cleaning
 
 ## Git Stash
 - `git stash`: Temporarily saves changes.
@@ -158,73 +158,73 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - `git clean`: Removes untracked files from the working directory.
 - Use with caution to avoid unintentional data loss.
 
-# 4. Signing Your Work
+# IV. Signing Your Work
 
 ## Git Commit -S
 - `git commit -S`: Sign commits using GPG.
 - Adds a cryptographic signature to each commit.
 
-# 5. Searching
+# V. Searching
 
 ## Git Grep
 - `git grep <pattern>`: Searches for a pattern in the repository.
 - Options like `--line-number` and `--count` provide additional information.
 
-# 6. Rewriting History
+# VI. Rewriting History
 
 ## Git Rebase
 - `git rebase <branch>`: Rewrites commit history.
 - Squash, edit, or reorder commits interactively.
 
-# 7. Reset Demystified
+# VII. Reset Demystified
 
 ## Git Reset
 - `git reset <commit>`: Unstages changes or moves the branch pointer.
 - Options like `--soft`, `--mixed`, and `--hard` control the reset behavior.
 
-# 8. Advanced Merging
+# VIII. Advanced Merging
 
 ## Git Merge Strategies
 - `git merge -s <strategy>`: Utilize different merge strategies.
 - Strategies include `recursive`, `octopus`, and `ours`.
 
-# 9. Rerere
+# IX. Rerere
 
 ## Git Rerere
 - `git rerere`: Reuse recorded resolution of conflicted merges.
 - Automates conflict resolution based on past resolutions.
 
-# 10. Debugging with Git
+# X. Debugging with Git
 
 ## Git Bisect
 - `git bisect`: Binary search for bugs.
 - Identify the commit that introduced a bug.
 
-# 11. Submodules
+# XI. Submodules
 
 ## Git Submodules
 - `git submodule`: Embed external repositories within a repository.
 - Useful for managing dependencies.
 
-# 12. Bundling
+# XII. Bundling
 
 ## Git Bundle
 - `git bundle`: Package a repository as a single file.
 - Transfer Git data without direct network access.
 
-# 13. Replace
+# XIII. Replace
 
 ## Git Replace
 - `git replace`: Replace an object with another one.
 - Useful for correcting mistakes in the commit history.
 
-# 14. Credential Storage
+# XIV. Credential Storage
 
 ## Git Credential Storage
 - Configure credential storage for authentication.
 - Options include caching, credential managers, and helpers.
 
-# 15. Summary
+# XV. Summary
 
 ## Key Takeaways
 - Revision selection tools like `git log` and `git show` provide insights into commit history.
@@ -240,7 +240,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 
 ---
 # 8. Customizing Git
-# 1. Git Configuration
+# I. Git Configuration
 
 ## Global Configuration
 - `git config --global`: Set global configurations.
@@ -250,7 +250,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - `git config`: Set configurations specific to a repository.
 - Includes repository-specific user details and custom aliases.
 
-# 2. Git Attributes
+# II. Git Attributes
 
 ## Git Attributes Overview
 - Define attributes for files in a repository.
@@ -260,7 +260,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - Specify attributes in a `.gitattributes` file.
 - Applied to files based on patterns and rules.
 
-# 3. Git Hooks
+# III. Git Hooks
 
 ## Git Hooks Introduction
 - Scripts triggered by specific Git events.
@@ -270,7 +270,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - `pre-commit`: Run before each commit.
 - `post-commit`: Run after a commit is made.
 
-# 4. An Example Git-Enforced Policy
+# IV. An Example Git-Enforced Policy
 
 ## Commit Message Policy
 - Enforce a commit message format.
@@ -281,7 +281,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 2. Define the policy checks in the script.
 3. Configure the repository to use the hook.
 
-# 5. Summary
+# V. Summary
 
 ## Key Takeaways
 - Git configuration is customizable globally and per repository.
