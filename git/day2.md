@@ -1,4 +1,4 @@
-# Distributed Git
+# 5. Distributed Git
 # 1. Distributed Workflows
 
 ## Understanding Distributed Workflows
@@ -61,7 +61,7 @@
 Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 
 ---
-# GutHub
+# 6. GutHub
 # 1. Account Setup and Configuration
 
 ## Creating a GitHub Account
@@ -131,7 +131,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - GitHub provides automation through GitHub Actions and an API.
 
 ---
-# Git Tools
+# 7. Git Tools
 # 1. Revision Selection
 
 ## Git Log
@@ -239,7 +239,7 @@ Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 - `git replace` corrects mistakes, and credential storage enhances authentication.
 
 ---
-# Customizing Git
+# 8. Customizing Git
 # 1. Git Configuration
 
 ## Global Configuration
