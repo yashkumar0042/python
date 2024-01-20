@@ -1,4 +1,3 @@
-Certainly! Here are five detailed Git labs with questions and step-by-step answers:
 
 ### Lab 1: Initializing a Repository and Making Commits
 
