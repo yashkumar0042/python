@@ -61,7 +61,7 @@
 Certainly! Here are detailed PowerPoint notes on the GitHub topics:
 
 ---
-# 6. GutHub
+# 6. GitHub
 # I. Account Setup and Configuration
 
 ## Creating a GitHub Account
