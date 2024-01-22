@@ -1,4 +1,3 @@
-Certainly! Let's provide more details for each section:
 
 ### GitHub Overview:
 
