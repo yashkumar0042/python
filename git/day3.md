@@ -1,5 +1,3 @@
-Certainly! Let's delve deeper into each section with more information and examples:
-
 ---
 
 # Understanding Git Basics
