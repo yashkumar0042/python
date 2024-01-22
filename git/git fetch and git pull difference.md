@@ -1,5 +1,3 @@
-Certainly! Let's dive deeper into each command with more details and examples:
-
 ### 1. Git Fetch:
 
 - **Purpose:**
