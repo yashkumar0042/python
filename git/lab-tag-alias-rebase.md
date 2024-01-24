@@ -1,4 +1,3 @@
-Certainly! Below are detailed lab questions and answers for each of the topics: Git Tagging, Git Alias, and Git Rebase.
 
 ### 1. Git Tagging:
 
@@ -92,5 +91,3 @@ git rebase main
 git checkout main
 git log --oneline
 ```
-
-These detailed steps should guide through the practical implementation of Git Tagging, Git Alias, and Git Rebase in a lab setting. Students can follow these steps to gain hands-on experience with these Git features.
