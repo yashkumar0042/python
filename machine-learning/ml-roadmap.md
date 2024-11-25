@@ -1,4 +1,3 @@
----
 
 ## **Month 1: Foundations**
 1. **Week 1**: Python Basics and Libraries
